@@ -25,7 +25,7 @@ public class Prueba {
 		". El número flotante es : " + numFlotante +
 		".El número doble es: "+ numDoble);
 		
-		System.out.println("Modificacion 1");
+		System.out.println("Modificacion 2");
 		
 		
 
