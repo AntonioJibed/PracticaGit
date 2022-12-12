@@ -14,6 +14,10 @@ public class Operaciones {
 		System.out.println("Segundo Numero");
 		int num2 = sc.nextInt();
 		
+		System.out.println("Menu");
+		System.out.println("Pulsa 1 para sumar");
+		System.out.println("Pulsa 2 para restar");
+
 
 	}
 
