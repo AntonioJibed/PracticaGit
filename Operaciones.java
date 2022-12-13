@@ -18,6 +18,7 @@ public class Operaciones {
 		System.out.println("Menu");
 		System.out.println("Pulsa 1 para sumar");
 		System.out.println("Pulsa 2 para restar");
+		System.out.println("Pulsa 3 para multiplicar");
 		int opcion = sc.nextInt();
 		
 		if (opcion == 1) {
@@ -27,6 +28,9 @@ public class Operaciones {
 		if (opcion == 2) {
 			resultado = num1 - num2;
 		}
+		
+		if (opcion ==3) {
+			resultado = num1 * num3;
 		
 		System.out.println("Resultado " + resultado);
 		
